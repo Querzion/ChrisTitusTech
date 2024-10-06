@@ -21,6 +21,8 @@ src="https://img.shields.io/twitch/status/christitustech?logo=twitchsx&style=for
 
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/@QuestionTheTruth>
+  - Facebook  : <https://facebook.com/querzion>
+  - Facebook  : <https://facebook.com/slisk.lindqvist>
   - Twitch    : <https://twitch.tv/querzion>
   - Twitter   : <https://twitter.com/querzion>
   - Website   : <https://querzion.com>
