@@ -18,31 +18,11 @@ src="https://img.shields.io/twitch/status/christitustech?logo=twitchsx&style=for
 ### 👷 Check out what I'm currently working on
 
 - [Querzion/website](https://github.com/querzion/querzion.website) - In the works to be used instead of [the q-hub](https://querzion.com)
- 
-### 🔨 My recent Pull Requests
 
-- [Revert &#34;refac(invoke-wpfuninstall.ps1): remove null assignments and simplify taskbaritem invocation&#34;](https://github.com/ChrisTitusTech/winutil/pull/2806) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-- [Revert &#34;Rust formatting stuff 2 - removed an unused variable&#34;](https://github.com/ChrisTitusTech/linutil/pull/538) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
-- [D2r posix update](https://github.com/ChrisTitusTech/linutil/pull/531) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
-- [Runspace Change to fix Tweaks](https://github.com/ChrisTitusTech/winutil/pull/2719) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-- [Revert &#34;Better Image handling&#34;](https://github.com/ChrisTitusTech/winutil/pull/2717) on [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-### ⭐ Recent Stars
-
-- [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch based Linux distributions.
-- [NilliP/NillipussUI_1440p](https://github.com/NilliP/NillipussUI_1440p) - 1440p Large UI
-- [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, 11, XP and Server. Generate RDP and MSI files for clients.
-- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse &amp; keyboard sharing via LAN
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
-### 📰 Recent Blog Posts
-
-- [The Most Popular Windows Utility](https://christitus.com/winutil-install/)
-- [Crowdstrike Alternatives](https://christitus.com/crowdstrike-alternatives/)
-- [Home Theater PC](https://christitus.com/home-theater-pc/)
-- [Why You NEED to Contribute to Open Source](https://christitus.com/why-you-NEED-to-contribute-to-open-source/)
-- [My Problems With Linux](https://christitus.com/my-problems-with-linux/)
 ### 📫 How to reach me:
-  - Youtube   : <https://youtube.com/c/ChrisTitusTech>
-  - Twitch    : <https://twitch.tv/christitustech>
-  - Twitter   : <https://twitter.com/christitustech>
-  - Website   : <https://christitus.com>
-  - Web Store : <https://cttstore.com>
+  - Youtube   : <https://www.youtube.com/@QuestionTheTruth>
+  - Twitch    : <https://twitch.tv/querzion>
+  - Twitter   : <https://twitter.com/querzion>
+  - Website   : <https://querzion.com>
+  - Blog      : <https://blog.querzion.com>
+  - Web Store : <https://store.querzion.com>
