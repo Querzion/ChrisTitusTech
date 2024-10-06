@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Querzion/Querzion/refs/heads/main/cl-000.256px.webp" /><img src="https://github.com/Querzion/Querzion/blob/main/qst-600px.png?raw=true" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Querzion/Querzion/refs/heads/main/cl-000.128px.webp" /><img src="https://github.com/Querzion/Querzion/blob/main/qst-600px.png?raw=true" /></p>
 
 <a href="https://www.twitch.tv/querzion" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/christitustech?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
